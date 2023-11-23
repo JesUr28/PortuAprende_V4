@@ -1,0 +1,26 @@
+.container1{
+    margin-top: 0;
+    width: 70%;
+    margin: auto;
+}
+
+
+
+.container-fluid{
+    width: 100%;
+}
+
+#dt{
+    text-align: center;
+}
+
+#fr{
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+
+.botones{
+    margin-left: 20%;
+    margin-right: 20%;
+}
